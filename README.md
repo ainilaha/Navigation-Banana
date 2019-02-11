@@ -6,6 +6,9 @@
 
 ### Introduction
 
+This a project for [deep reinforcement learning of Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
+This repo is refer from Udacity [Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning). Especially,[Project 1: Navigation](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation).
+
 The purpose of this project, we will train an agent to navigate (and collect bananas!) in a large, square world.
 
 ![Trained Agent][image1]
